@@ -3,7 +3,9 @@ This is a mini project built for DBMS subject.
 
 # Login as Admin:
 Email: admin@admin.com
+
 Password : admin1
+
 Role: Admin
 
 # How to launch:
